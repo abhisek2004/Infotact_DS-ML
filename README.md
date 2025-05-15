@@ -205,7 +205,7 @@ Performance achieved:
 * **Name**: Abhisek Panda
 * **Internship Role**: Data Science & Machine Learning Intern
 * **Organization**: Infotact Solutions
-* **Email**: [abhisek2004official@gmail.com](mailto:abhisek2004official@gmail.com)
+* **Email**: [abhisek2004official@gmail.com](mailto:abhisek2004panda@gmail.com)
 * **LinkedIn**: [Abhisek Panda](https://linkedin.com/in/abhisek2004)
 
 ---
