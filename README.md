@@ -12,12 +12,6 @@ Infotact Solutions_Data Science &amp; Machine Learning_PROJECT
 ![PROJECT_page-0004](https://github.com/user-attachments/assets/044afda4-ccef-48e9-9a47-bd3ce312bef7)
 
 
-Great! Below is a **fully detailed and finalized `README.md` file** for your GitHub repository [Infotact\_DS-ML](https://github.com/abhisek2004/Infotact_DS-ML). This version includes:
-
-* A professional and clear explanation of the project
-* Technical and functional details
-* Proper structure for presentation on GitHub
-
 ---
 
 # 📊 Infotact\_DS-ML
