@@ -221,5 +221,3 @@ Special thanks to **Infotact Solutions** for the opportunity and guidance throug
 This project was an excellent opportunity to work on real-world problems using data science and ML. The **AI-Powered Task Management System** shows how intelligent algorithms can significantly improve workplace efficiency and productivity by predicting delays, optimizing assignments, and generating insightful reports.
 
 ---
-
-Let me know if you want this as a `.md` file or added directly into your repo.
