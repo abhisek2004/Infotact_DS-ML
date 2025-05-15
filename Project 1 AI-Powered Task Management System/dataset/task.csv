@@ -1,0 +1,201 @@
+task_id,description,assigned_to,priority,deadline,status,task_type,workload,deadline_days
+TASK001,Study performance metrics,Eve,Low,14-06-2025,In Progress,Research,9,30
+TASK002,Provide usage documentation,Alice,Medium,16-05-2025,Open,Support,3,1
+TASK003,Fix crash on launch,Diana,Medium,06-06-2025,Open,Bug,4,22
+TASK004,Provide usage documentation,Bob,Medium,23-05-2025,Completed,Support,4,8
+TASK005,Fix crash on launch,Diana,Medium,30-05-2025,Blocked,Bug,7,15
+TASK006,Help user reset password,Charlie,Medium,25-05-2025,Open,Support,8,10
+TASK007,Implement dark mode,Alice,Medium,29-05-2025,In Progress,Feature,2,14
+TASK008,Troubleshoot connectivity issue,Eve,Medium,04-06-2025,Open,Support,7,20
+TASK009,Study performance metrics,Charlie,Low,16-05-2025,Open,Research,7,1
+TASK010,Refactor login module,Diana,High,26-05-2025,Open,Improvement,5,11
+TASK011,Research API integration,Charlie,High,14-06-2025,Completed,Research,10,30
+TASK012,Improve API response time,Alice,Medium,16-05-2025,Open,Improvement,5,1
+TASK013,Resolve null pointer exception,Bob,Medium,11-06-2025,Open,Bug,10,27
+TASK014,Refactor login module,Charlie,Critical,17-05-2025,Open,Improvement,5,2
+TASK015,Explore new ML model,Bob,Medium,19-05-2025,Open,Research,7,4
+TASK016,Fix login issue,Alice,Medium,12-06-2025,Open,Bug,8,28
+TASK017,Improve API response time,Diana,Medium,20-05-2025,Blocked,Improvement,2,5
+TASK018,Optimize database queries,Eve,Critical,18-05-2025,Open,Improvement,2,3
+TASK019,Enhance UI design,Bob,Medium,14-06-2025,Completed,Improvement,10,30
+TASK020,Provide usage documentation,Charlie,Low,21-05-2025,In Progress,Support,3,6
+TASK021,Implement dark mode,Alice,Medium,28-05-2025,Open,Feature,6,13
+TASK022,Research API integration,Eve,Medium,02-06-2025,In Progress,Research,1,18
+TASK023,Implement dark mode,Diana,High,07-06-2025,Open,Feature,4,23
+TASK024,Study performance metrics,Bob,High,27-05-2025,Completed,Research,3,12
+TASK025,Improve API response time,Charlie,Low,07-06-2025,Open,Improvement,9,23
+TASK026,Implement dark mode,Alice,High,11-06-2025,Open,Feature,10,27
+TASK027,Correct date format bug,Alice,Low,24-05-2025,Open,Bug,3,9
+TASK028,Explore new ML model,Charlie,High,21-05-2025,In Progress,Research,2,6
+TASK029,Troubleshoot connectivity issue,Charlie,Medium,23-05-2025,Completed,Support,4,8
+TASK030,Explore new ML model,Bob,High,27-05-2025,Blocked,Research,7,12
+TASK031,Troubleshoot connectivity issue,Charlie,Medium,26-05-2025,Open,Support,3,11
+TASK032,Fix login issue,Alice,Low,04-06-2025,Blocked,Bug,9,20
+TASK033,Enhance UI design,Eve,High,07-06-2025,Blocked,Improvement,10,23
+TASK034,Research API integration,Alice,Medium,22-05-2025,In Progress,Research,8,7
+TASK035,Troubleshoot connectivity issue,Charlie,Low,26-05-2025,Open,Support,7,11
+TASK036,Correct date format bug,Alice,Medium,16-05-2025,Completed,Bug,6,1
+TASK037,Explore new ML model,Charlie,High,21-05-2025,In Progress,Research,2,6
+TASK038,Optimize database queries,Diana,Low,01-06-2025,Open,Improvement,10,17
+TASK039,Study performance metrics,Diana,Medium,24-05-2025,Open,Research,6,9
+TASK040,Enhance UI design,Eve,Medium,29-05-2025,Open,Improvement,9,14
+TASK041,Troubleshoot connectivity issue,Alice,High,30-05-2025,Open,Support,6,15
+TASK042,Create export to CSV,Alice,High,18-05-2025,Open,Feature,8,3
+TASK043,Enhance UI design,Alice,High,30-05-2025,Open,Improvement,6,15
+TASK044,Create export to CSV,Bob,High,20-05-2025,Completed,Feature,1,5
+TASK045,Explore new ML model,Bob,High,21-05-2025,Completed,Research,2,6
+TASK046,Implement dark mode,Alice,High,25-05-2025,Open,Feature,9,10
+TASK047,Enhance UI design,Charlie,High,08-06-2025,Blocked,Improvement,10,24
+TASK048,Research API integration,Charlie,Medium,24-05-2025,Open,Research,1,9
+TASK049,Develop search functionality,Bob,High,30-05-2025,Open,Feature,4,15
+TASK050,Research API integration,Diana,Medium,31-05-2025,Completed,Research,4,16
+TASK051,Explore new ML model,Diana,High,31-05-2025,In Progress,Research,8,16
+TASK052,Refactor login module,Bob,Medium,27-05-2025,Blocked,Improvement,9,12
+TASK053,Study performance metrics,Eve,Low,21-05-2025,Open,Research,3,6
+TASK054,Fix crash on launch,Eve,High,29-05-2025,In Progress,Bug,9,14
+TASK055,Troubleshoot connectivity issue,Diana,Medium,02-06-2025,In Progress,Support,8,18
+TASK056,Troubleshoot connectivity issue,Bob,Low,29-05-2025,In Progress,Support,1,14
+TASK057,Provide usage documentation,Bob,Medium,25-05-2025,Completed,Support,7,10
+TASK058,Analyze competitors' features,Bob,High,26-05-2025,Open,Research,8,11
+TASK059,Improve API response time,Bob,Low,09-06-2025,Open,Improvement,6,25
+TASK060,Develop search functionality,Bob,Low,06-06-2025,In Progress,Feature,3,22
+TASK061,Create export to CSV,Diana,Medium,30-05-2025,In Progress,Feature,10,15
+TASK062,Troubleshoot connectivity issue,Eve,Low,03-06-2025,Completed,Support,7,19
+TASK063,Resolve null pointer exception,Eve,Low,08-06-2025,Completed,Bug,8,24
+TASK064,Create export to CSV,Diana,Medium,22-05-2025,Open,Feature,4,7
+TASK065,Resolve null pointer exception,Eve,Low,13-06-2025,In Progress,Bug,7,29
+TASK066,Explore new ML model,Alice,Medium,18-05-2025,Open,Research,7,3
+TASK067,Implement dark mode,Eve,Low,18-05-2025,In Progress,Feature,5,3
+TASK068,Create export to CSV,Diana,High,14-06-2025,Open,Feature,2,30
+TASK069,Help user reset password,Charlie,Medium,07-06-2025,Open,Support,8,23
+TASK070,Refactor login module,Eve,Medium,30-05-2025,In Progress,Improvement,1,15
+TASK071,Analyze competitors' features,Bob,Medium,03-06-2025,Open,Research,6,19
+TASK072,Analyze competitors' features,Alice,High,09-06-2025,Open,Research,8,25
+TASK073,Provide usage documentation,Charlie,High,25-05-2025,In Progress,Support,1,10
+TASK074,Analyze competitors' features,Diana,Medium,12-06-2025,In Progress,Research,9,28
+TASK075,Resolve null pointer exception,Charlie,Critical,19-05-2025,In Progress,Bug,8,4
+TASK076,Analyze competitors' features,Charlie,Medium,31-05-2025,Open,Research,1,16
+TASK077,Analyze competitors' features,Diana,Low,12-06-2025,Blocked,Research,1,28
+TASK078,Resolve null pointer exception,Bob,Medium,12-06-2025,Open,Bug,7,28
+TASK079,Study performance metrics,Charlie,High,23-05-2025,In Progress,Research,5,8
+TASK080,Troubleshoot connectivity issue,Alice,Low,21-05-2025,In Progress,Support,10,6
+TASK081,Assist with onboarding,Eve,Medium,23-05-2025,Open,Support,3,8
+TASK082,Fix crash on launch,Eve,Medium,22-05-2025,Open,Bug,5,7
+TASK083,Develop search functionality,Bob,Medium,25-05-2025,In Progress,Feature,3,10
+TASK084,Provide usage documentation,Diana,High,12-06-2025,Open,Support,7,28
+TASK085,Enhance UI design,Diana,Medium,11-06-2025,Open,Improvement,2,27
+TASK086,Troubleshoot connectivity issue,Bob,Medium,21-05-2025,Blocked,Support,1,6
+TASK087,Fix login issue,Charlie,High,16-05-2025,In Progress,Bug,7,1
+TASK088,Assist with onboarding,Alice,High,09-06-2025,Completed,Support,9,25
+TASK089,Help user reset password,Alice,Critical,19-05-2025,Completed,Support,10,4
+TASK090,Improve API response time,Alice,Low,27-05-2025,Completed,Improvement,9,12
+TASK091,Create export to CSV,Eve,High,23-05-2025,Completed,Feature,7,8
+TASK092,Help user reset password,Charlie,Medium,04-06-2025,Completed,Support,7,20
+TASK093,Assist with onboarding,Alice,High,26-05-2025,Open,Support,7,11
+TASK094,Enhance UI design,Charlie,High,22-05-2025,In Progress,Improvement,7,7
+TASK095,Study performance metrics,Diana,Medium,07-06-2025,In Progress,Research,3,23
+TASK096,Refactor login module,Eve,Medium,03-06-2025,Completed,Improvement,8,19
+TASK097,Fix login issue,Charlie,High,01-06-2025,In Progress,Bug,4,17
+TASK098,Provide usage documentation,Charlie,Medium,18-05-2025,Completed,Support,7,3
+TASK099,Help user reset password,Eve,Critical,05-06-2025,Blocked,Support,1,21
+TASK100,Provide usage documentation,Eve,Medium,14-06-2025,In Progress,Support,10,30
+TASK101,Research API integration,Diana,Medium,28-05-2025,In Progress,Research,4,13
+TASK102,Resolve null pointer exception,Eve,Medium,02-06-2025,In Progress,Bug,3,18
+TASK103,Enhance UI design,Bob,Low,12-06-2025,Blocked,Improvement,8,28
+TASK104,Improve API response time,Alice,High,18-05-2025,Open,Improvement,2,3
+TASK105,Research API integration,Diana,Low,01-06-2025,In Progress,Research,4,17
+TASK106,Develop search functionality,Alice,Low,03-06-2025,In Progress,Feature,5,19
+TASK107,Create export to CSV,Charlie,Low,02-06-2025,Open,Feature,2,18
+TASK108,Correct date format bug,Diana,Low,16-05-2025,Completed,Bug,2,1
+TASK109,Research API integration,Alice,Medium,06-06-2025,Open,Research,2,22
+TASK110,Enhance UI design,Charlie,High,02-06-2025,Open,Improvement,8,18
+TASK111,Research API integration,Eve,Medium,07-06-2025,In Progress,Research,1,23
+TASK112,Fix crash on launch,Charlie,Medium,01-06-2025,Blocked,Bug,10,17
+TASK113,Fix login issue,Alice,High,01-06-2025,Open,Bug,3,17
+TASK114,Explore new ML model,Bob,Medium,05-06-2025,In Progress,Research,6,21
+TASK115,Add user authentication,Eve,Medium,18-05-2025,Blocked,Feature,5,3
+TASK116,Help user reset password,Diana,Low,29-05-2025,In Progress,Support,9,14
+TASK117,Resolve null pointer exception,Bob,Medium,24-05-2025,In Progress,Bug,4,9
+TASK118,Provide usage documentation,Charlie,High,12-06-2025,Open,Support,10,28
+TASK119,Improve API response time,Charlie,Medium,19-05-2025,Open,Improvement,5,4
+TASK120,Explore new ML model,Diana,High,01-06-2025,In Progress,Research,9,17
+TASK121,Assist with onboarding,Eve,Critical,06-06-2025,In Progress,Support,9,22
+TASK122,Implement dark mode,Alice,Medium,12-06-2025,Open,Feature,9,28
+TASK123,Assist with onboarding,Diana,Critical,18-05-2025,In Progress,Support,7,3
+TASK124,Implement dark mode,Alice,Low,19-05-2025,Open,Feature,8,4
+TASK125,Resolve null pointer exception,Bob,Medium,13-06-2025,Open,Bug,5,29
+TASK126,Explore new ML model,Diana,Medium,11-06-2025,In Progress,Research,9,27
+TASK127,Develop search functionality,Bob,High,26-05-2025,Completed,Feature,9,11
+TASK128,Optimize database queries,Charlie,Low,26-05-2025,Blocked,Improvement,7,11
+TASK129,Improve API response time,Eve,Low,13-06-2025,Open,Improvement,9,29
+TASK130,Enhance UI design,Charlie,High,16-05-2025,Open,Improvement,3,1
+TASK131,Refactor login module,Alice,Low,05-06-2025,Blocked,Improvement,8,21
+TASK132,Create export to CSV,Bob,Low,08-06-2025,Open,Feature,5,24
+TASK133,Analyze competitors' features,Charlie,Medium,27-05-2025,Open,Research,2,12
+TASK134,Resolve null pointer exception,Alice,Medium,26-05-2025,In Progress,Bug,10,11
+TASK135,Improve API response time,Alice,Medium,11-06-2025,In Progress,Improvement,6,27
+TASK136,Troubleshoot connectivity issue,Bob,Low,14-06-2025,In Progress,Support,2,30
+TASK137,Research API integration,Alice,Critical,24-05-2025,In Progress,Research,3,9
+TASK138,Correct date format bug,Alice,Medium,18-05-2025,Completed,Bug,8,3
+TASK139,Optimize database queries,Eve,Medium,22-05-2025,In Progress,Improvement,4,7
+TASK140,Troubleshoot connectivity issue,Eve,Low,03-06-2025,In Progress,Support,7,19
+TASK141,Study performance metrics,Charlie,Medium,10-06-2025,Open,Research,8,26
+TASK142,Optimize database queries,Charlie,Low,26-05-2025,Completed,Improvement,9,11
+TASK143,Research API integration,Alice,High,04-06-2025,Completed,Research,6,20
+TASK144,Assist with onboarding,Bob,Low,10-06-2025,In Progress,Support,7,26
+TASK145,Fix login issue,Alice,Medium,24-05-2025,Open,Bug,5,9
+TASK146,Enhance UI design,Charlie,Medium,28-05-2025,Open,Improvement,6,13
+TASK147,Optimize database queries,Alice,Medium,26-05-2025,Blocked,Improvement,3,11
+TASK148,Study performance metrics,Charlie,High,05-06-2025,In Progress,Research,6,21
+TASK149,Research API integration,Diana,Low,09-06-2025,Completed,Research,7,25
+TASK150,Add user authentication,Bob,Medium,27-05-2025,Blocked,Feature,5,12
+TASK151,Assist with onboarding,Eve,Medium,29-05-2025,Blocked,Support,3,14
+TASK152,Help user reset password,Diana,Low,28-05-2025,In Progress,Support,2,13
+TASK153,Develop search functionality,Bob,High,14-06-2025,Open,Feature,9,30
+TASK154,Fix crash on launch,Diana,Medium,13-06-2025,In Progress,Bug,6,29
+TASK155,Provide usage documentation,Bob,Low,25-05-2025,Completed,Support,5,10
+TASK156,Enhance UI design,Alice,Low,21-05-2025,Open,Improvement,4,6
+TASK157,Fix crash on launch,Alice,Low,24-05-2025,In Progress,Bug,4,9
+TASK158,Explore new ML model,Eve,High,18-05-2025,Open,Research,10,3
+TASK159,Create export to CSV,Charlie,Medium,01-06-2025,In Progress,Feature,3,17
+TASK160,Fix crash on launch,Bob,Low,03-06-2025,Open,Bug,6,19
+TASK161,Fix crash on launch,Eve,Medium,12-06-2025,In Progress,Bug,8,28
+TASK162,Fix login issue,Alice,Critical,20-05-2025,In Progress,Bug,8,5
+TASK163,Add user authentication,Alice,High,02-06-2025,Open,Feature,4,18
+TASK164,Develop search functionality,Bob,Medium,13-06-2025,Open,Feature,7,29
+TASK165,Fix login issue,Bob,Medium,25-05-2025,Completed,Bug,2,10
+TASK166,Analyze competitors' features,Diana,Low,11-06-2025,Open,Research,4,27
+TASK167,Optimize database queries,Charlie,Medium,11-06-2025,Completed,Improvement,5,27
+TASK168,Study performance metrics,Bob,Medium,16-05-2025,Completed,Research,2,1
+TASK169,Correct date format bug,Alice,Critical,11-06-2025,Completed,Bug,4,27
+TASK170,Develop search functionality,Charlie,Medium,25-05-2025,In Progress,Feature,1,10
+TASK171,Correct date format bug,Eve,Medium,17-05-2025,Blocked,Bug,1,2
+TASK172,Research API integration,Diana,Medium,22-05-2025,Completed,Research,2,7
+TASK173,Fix login issue,Diana,High,27-05-2025,Completed,Bug,5,12
+TASK174,Improve API response time,Diana,Medium,06-06-2025,Completed,Improvement,2,22
+TASK175,Enhance UI design,Alice,Medium,02-06-2025,Completed,Improvement,2,18
+TASK176,Implement dark mode,Alice,High,03-06-2025,Open,Feature,9,19
+TASK177,Assist with onboarding,Bob,High,05-06-2025,Open,Support,7,21
+TASK178,Implement dark mode,Bob,High,13-06-2025,Open,Feature,9,29
+TASK179,Troubleshoot connectivity issue,Bob,High,28-05-2025,Blocked,Support,8,13
+TASK180,Implement dark mode,Eve,Medium,04-06-2025,Completed,Feature,1,20
+TASK181,Improve API response time,Alice,Low,20-05-2025,In Progress,Improvement,8,5
+TASK182,Fix login issue,Bob,High,25-05-2025,Open,Bug,5,10
+TASK183,Implement dark mode,Alice,High,23-05-2025,In Progress,Feature,4,8
+TASK184,Enhance UI design,Charlie,High,23-05-2025,Completed,Improvement,8,8
+TASK185,Explore new ML model,Alice,High,14-06-2025,In Progress,Research,8,30
+TASK186,Enhance UI design,Alice,High,21-05-2025,Blocked,Improvement,6,6
+TASK187,Troubleshoot connectivity issue,Alice,High,27-05-2025,Open,Support,6,12
+TASK188,Fix crash on launch,Charlie,Medium,22-05-2025,In Progress,Bug,5,7
+TASK189,Study performance metrics,Eve,Medium,02-06-2025,Open,Research,7,18
+TASK190,Resolve null pointer exception,Diana,Medium,29-05-2025,In Progress,Bug,8,14
+TASK191,Add user authentication,Alice,Medium,27-05-2025,In Progress,Feature,4,12
+TASK192,Optimize database queries,Diana,High,19-05-2025,Open,Improvement,5,4
+TASK193,Study performance metrics,Diana,Medium,22-05-2025,Completed,Research,6,7
+TASK194,Study performance metrics,Charlie,High,04-06-2025,Open,Research,8,20
+TASK195,Study performance metrics,Bob,Medium,16-05-2025,In Progress,Research,4,1
+TASK196,Enhance UI design,Eve,High,03-06-2025,In Progress,Improvement,7,19
+TASK197,Create export to CSV,Charlie,Low,23-05-2025,In Progress,Feature,5,8
+TASK198,Explore new ML model,Eve,Low,28-05-2025,In Progress,Research,4,13
+TASK199,Research API integration,Diana,Medium,17-05-2025,Completed,Research,5,2
+TASK200,Correct date format bug,Charlie,High,21-05-2025,Blocked,Bug,3,6
