@@ -1,5 +1,3 @@
----
-
 # 📊 Infotact\_DS-ML
 
 **Infotact Solutions – Data Science & Machine Learning Internship Project**
