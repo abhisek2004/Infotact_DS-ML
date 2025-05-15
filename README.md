@@ -2,7 +2,7 @@
 
 **Infotact Solutions – Data Science & Machine Learning Internship Project**
 
-![Infotact Badge](https://github.com/user-attachments/assets/d6071af2-1f1c-4799-8112-e34c6bae5dc0)
+         <-- ![Infotact Badge](https://github.com/user-attachments/assets/d6071af2-1f1c-4799-8112-e34c6bae5dc0) -->
 
 ---
 
