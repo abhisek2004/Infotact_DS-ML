@@ -1,2 +1,5 @@
 id,title,description,category,status,priority,deadline,created_at,completed_at
+1,Test Task,This is a test.,Feature,completed,high,2025-06-01,2025-05-26,2025-05-27
 2,Unit testing,Test the ml model for better prediction,Feature,pending,High,2025-05-29,2025-05-26T10:33:44.358158,
+3,Class Work ,Study,Refactor,pending,High,2025-05-28,2025-05-27T12:38:05.866837,
+5,Study,EveryDay Need to Do ,Refactor,Pending,High,2025-05-27,2025-05-27T12:42:37.049948,
