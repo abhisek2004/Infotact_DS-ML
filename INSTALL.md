@@ -58,6 +58,20 @@ Open the desired notebook from the browser interface.
 
 ---
 
+## 🧪 Run a Notebook
+
+Use **Jupyter Notebook**, **VS Code**, or upload `.ipynb` files directly to **Google Colab**.
+
+To start Jupyter locally:
+
+```bash
+jupyter notebook
+```
+
+This will open the Jupyter interface in your browser. From there, you can open and run any `.ipynb` notebook in
+
+---
+
 ## ❓ Troubleshooting
 
 - If you encounter issues with dependencies, try upgrading pip:
