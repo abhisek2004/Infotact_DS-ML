@@ -25,8 +25,8 @@ This is a Movie Recommendation System that uses collaborative filtering techniqu
 To use this Movie Recommendation System, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the required dependencies using [pip](https://pip.pypa.io/en/stable/): 
-pip install pandas numpy matplotlib seaborn surprise
+2. Install the required dependencies using [pip](https://pip.pypa.io/en/stable/):
+   pip install pandas numpy matplotlib seaborn surprise
 
 3. Run the Jupyter Notebook or Python script to perform data cleaning, preprocessing, analysis, and train the recommendation model.
 
@@ -65,14 +65,3 @@ Contributions to this project are welcome! If you find any issues or have sugges
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-## Contact
-
-For any inquiries or collaborations, please feel free to contact me:
-
-- Name: HAJAR BENJAT
-- Email: hajarbenjat@gmail.com
-- LinkedIn: https://www.linkedin.com/in/hajar-benjat-a92132106/
-
-
-
